@@ -19,7 +19,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [link](https://github.com/ajithdr8311/JobListings-With-Filtering)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [link](https://brilliant-dolphin-411e67.netlify.app/)
 
 ### Built with
 
